@@ -1,0 +1,53 @@
+{
+    "form":[
+        {
+            "id":"decf05e3-b5a5-4336-a194-a5278e4c224b",
+            "name":"Settings",
+            "icon":"",
+            "formGroupData":[
+                {
+                    "params":[
+                        {
+                            "name":"xtype",
+                            "value":"ux-multilinelabel",
+                            "xtype":null
+                        },
+                        {
+                            "name":"hideLabel",
+                            "value":true,
+                            "xtype":null
+                        },
+                        {
+                            "name":"text",
+                            "xtype":"textarea",
+                            "height":200,
+                            "value":"Add here user interface elements.",
+                            "fieldLabel":"__i18n_formElements.commentLabel"
+                        },
+                        {
+                            "name":"autoLink",
+                            "value":true,
+                            "xtype":null
+                        },
+                        {
+                            "name":"cls",
+                            "value":"modulecomment",
+                            "xtype":null
+                        },
+                        {
+                            "name":"value",
+                            "xtype":null
+                        }
+                    ],
+                    "descr":{
+                        "text":"__i18n_formElements.elementComment",
+                        "iconCls":"plaintext"
+                    }
+                }
+            ]
+        }
+    ],
+    "formValues":{
+        
+    }
+}

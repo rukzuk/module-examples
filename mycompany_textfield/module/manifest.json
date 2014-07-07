@@ -1,0 +1,11 @@
+{
+    "name":"My Textfeld",
+    "description":"Example Text Module",
+    "version":"dev",
+    "icon":"page_white_text.png",
+    "category":"Content",
+    "moduleType":"default",
+    "allowedChildModuleType":"extension",
+    "reRenderRequired":false,
+    "apiType":"APIv1"
+}
