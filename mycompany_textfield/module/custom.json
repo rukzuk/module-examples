@@ -1,3 +1,21 @@
 {
-    
+	"assets":{
+		"js":[
+			{
+				"file":"mycompany.js",
+				"type":"module",
+				"mode":"live"
+			},
+			{
+				"file":"notlive\/editMode.js",
+				"type":"module",
+				"mode":"edit"
+			},
+			{
+				"file":"notlive\/css.js",
+				"type":"module",
+				"mode":"edit"
+			}
+		]
+	}
 }
