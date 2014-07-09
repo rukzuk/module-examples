@@ -10,7 +10,8 @@ class mycompany_textfield extends SimpleModule {
 	 */
 	public function renderContent($renderApi, $unit, $moduleInfo)
 	{
-		echo "<div><span>My Text</span></div>";
+		$anchorName = $renderApi->getFormValue( $unit, 'anchorName' );
+		echo "<div><span>{$anchorName}</span></div>";
 		$renderApi->renderChildren($unit);
 	}
 }
