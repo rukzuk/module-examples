@@ -1,3 +1,11 @@
 {
-    
+	"assets":{
+		"js":[
+			{
+				"file":"mycompany.js",
+				"type":"module",
+				"mode":"live"
+			}
+		]
+	}
 }
